@@ -9,3 +9,16 @@
  1. KATSEYE
  2. LE SSERAFIM
  3. STRAYKIDS
+
+# UPDATE HISTORY
+
+
+
+
+ ## 9/10/2026
+   ### Made KATSEYE repository
+   ### Added 3 WILD Songs
+   #### PINKYUP
+   #### Bel-Air
+   #### Hootie Fruitti
+   ### Updated README
