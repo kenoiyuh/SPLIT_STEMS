@@ -4,12 +4,12 @@ Split Stems here! **NOTE:** I DO NOT OWN THESE SONGS, I SPLIPPED THE SONG INTO 2
 
 ---
 
-## 📌 INSTRUCTIONS
+## INSTRUCTIONS
 Releases of Split Stems can be found under the **Releases** tab on the right side of this repository.
 
 ---
 
-## 🎤 GROUP ORDER
+## GROUP ORDER
 1. KATSEYE
 2. LE SSERAFIM
 3. STRAY KIDS
