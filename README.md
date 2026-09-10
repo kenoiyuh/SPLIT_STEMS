@@ -18,7 +18,7 @@
  ## 9/10/2026
    ### Made KATSEYE repository
    ### Added 3 WILD Songs
-    #### PINKYUP
-    #### Bel-Air
-    #### Hootie Fruitti
+    1. PINKYUP
+    2. Bel-Air
+    3. Hootie Fruitti
    ### Updated README
