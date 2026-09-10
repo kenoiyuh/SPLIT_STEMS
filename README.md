@@ -1,24 +1,33 @@
 # SPLIT_STEMS
- Split Stems here! NOTE: I DO NOT OWN THESE SONGS, I SPLITTED THE SONG INTO 2 OR MORE STEMS. I DO NOT MAKE MONEY OUT OF THIS.
 
-# INSTRUCTIONS
-  Releases of Split Stems are at repositories.
+Split Stems here! **NOTE:** I DO NOT OWN THESE SONGS, I SPLIPPED THE SONG INTO 2 OR MORE STEMS. I DO NOT MAKE MONEY OUT OF THIS.
 
+---
 
-# GROUP ORDER
- 1. KATSEYE
- 2. LE SSERAFIM
- 3. STRAYKIDS
+## 📌 INSTRUCTIONS
+Releases of Split Stems can be found under the **Releases** tab on the right side of this repository.
 
-# UPDATE HISTORY
+---
 
+## 🎤 GROUP ORDER
+1. KATSEYE
+2. LE SSERAFIM
+3. STRAY KIDS
 
+---
 
+## 📜 UPDATE HISTORY
 
- ## 9/10/2026
-   ### Made KATSEYE repository
-   ### Added 3 WILD Songs
-    1. PINKYUP
-    2. Bel-Air
-    3. Hootie Fruitti
-   ### Updated README
+<details>
+<summary><b>9/10/2026 Update Log</b> (Click to open)</summary>
+
+<br>
+
+* Made KATSEYE release page
+* Added 3 songs from **WILD**:
+  1. PINKY UP
+  2. Bel-Air
+  3. Hootie Fruitti
+* Updated README
+
+</details>
